@@ -19,7 +19,7 @@ My portfolio, studio, and career OS. Built as a single-file web app with localSt
 **[Miss California USA — Campaign Dashboard](https://libraryofmorenita-hub.github.io)** *(coming soon)*  
 A public-facing dashboard tracking my journey to Miss California USA. Built for my team and for anyone who wants to follow along — preparation milestones, events, press, and how to get involved.
 
-**[Library of Morenita](https://libraryofmorenita-hub.github.io/the-library)**  
+**[Library of Morenita](https://libraryofmorenita-hub.github.io/crown-hq/library.html)**  
 A living digital library for artists, thinkers, and makers rooted in culture. Archive, academy, and magazine builder.
 
 ---
