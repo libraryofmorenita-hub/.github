@@ -14,18 +14,21 @@ Currently exploring senior engineering roles at mission-aligned companies in sus
 ### What lives here
 
 **[Muses of Morenita](https://libraryofmorenita-hub.github.io/muses-of-morenita)**  
+
 My portfolio, studio, and career OS. Built as a single-file web app with localStorage persistence.
 
 **[Miss California USA — Campaign Dashboard](https://libraryofmorenita-hub.github.io)** 
+
 A public-facing dashboard tracking my journey to Miss California USA. Built for my team and for anyone who wants to follow along — preparation milestones, events, press, and how to get involved.
 
 **[Library of Morenita](https://libraryofmorenita-hub.github.io/crown-hq/library.html)**  
+
 A living digital library for artists, thinkers, and makers rooted in culture. Archive, academy, and magazine builder.
 
 ---
 
 ### Stack
-`JavaScript` `React` `Supabase` `HTML/CSS` `Python` `Systems Architecture`
+`JavaScript` `React` `Supabase` `HTML/CSS` `Python` `Systems Architecture` `Flutter`
 
 ### Interests
 Sustainable fashion tech · Community infrastructure · Oil painting · Cultural preservation through technology
