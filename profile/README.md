@@ -17,7 +17,6 @@ Currently exploring senior engineering roles at mission-aligned companies in sus
 My portfolio, studio, and career OS. Built as a single-file web app with localStorage persistence.
 
 **[Miss California USA — Campaign Dashboard](https://libraryofmorenita-hub.github.io)** 
-
 A public-facing dashboard tracking my journey to Miss California USA. Built for my team and for anyone who wants to follow along — preparation milestones, events, press, and how to get involved.
 
 **[Library of Morenita](https://libraryofmorenita-hub.github.io/crown-hq/library.html)**  
