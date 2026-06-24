@@ -1,5 +1,6 @@
 # Amelia Arabe
 **Computer & Electrical Design Engineer · Founder · Artist · Cellist**
+
 Los Angeles, CA · [Portfolio](https://libraryofmorenita-hub.github.io/muses-of-morenita) · [LinkedIn](https://linkedin.com/in/ameliaarabe)
 
 <img width="10383" height="7125" alt="DE36D779-01B2-4B8A-99D3-E90E2CABF02D_1_201_a" src="https://github.com/user-attachments/assets/1e89f2e1-4af0-42e4-98c1-4f188062af68" />
