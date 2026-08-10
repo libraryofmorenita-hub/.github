@@ -26,7 +26,7 @@ A biomedical device that puts patients back in control of their wellness journey
 
 ---
 
-### 🧠 **Morenita Signals** — ML for Creatives
+### **Morenita Signals** — ML for Creatives
 A recommendation engine built differently. Instead of extracting attention, Signals amplifies human intuition. It learns what creatives *actually* care about through human-in-the-loop decision-making. Every recommendation is debuggable. Every prediction is explainable.
 
 Powers personalized content curation across the Morenita ecosystem—from Library of Morenita courses to Muses community discovery.
@@ -37,7 +37,7 @@ Powers personalized content curation across the Morenita ecosystem—from Librar
 
 ---
 
-### 🎨 **Muses of Morenita** — Creative Community Platform
+### **Muses of Morenita** — Creative Community Platform
 A space where creatives co-create with our technology. Muses is where you test Signals, share your work, connect with other creators, and help us build the tools you actually want.
 
 Live demos. Feedback loops. No algorithm trying to make you scroll.
@@ -48,7 +48,7 @@ Live demos. Feedback loops. No algorithm trying to make you scroll.
 
 ---
 
-### 📚 **Library of Morenita** — Education Platform
+### **Library of Morenita** — Education Platform
 A freemium education platform rooted in community wellness, creative development, and mindful technology. Free to read and explore. Paid access to courses and full academic majors.
 
 Home to all Morenita products, community, and the education mission that funds everything long-term.
