@@ -1,5 +1,5 @@
 # Amelia Arabe
-**Computer & Electrical Design Engineer · Founder · Artist · Cellist**
+**Head of Engineering · Morenita Technology**
 
 Los Angeles, CA  · [LinkedIn](https://linkedin.com/in/ameliaarabe)
 
@@ -17,10 +17,10 @@ We believe technology should make people feel safe, capable, and connected—not
 
 ## What We're Building
 
-### 🏥 **Maxine** — Recovery Companion Device
+### **Maxine** — Recovery Companion Device
 A biomedical device that puts patients back in control of their wellness journey. Maxine helps nurses, caretakers, and patients track recovery, medication administration, and health metrics with minimal friction. Beautiful hardware. Thoughtful firmware. Designed for agency, not compliance.
 
-**Status:** Prototype complete · MVP phase Q2 2025  
+**Status:** Prototype complete · Software development in progress · Conducting user interviews  
 **Tech:** Embedded C/C++ · CircuitPython · TypeScript · PostgreSQL  
 **Led by:** Mikah Tabalanza (Biomedical Engineering Lead), Amelia Arabe (Engineering)
 
@@ -31,18 +31,18 @@ A recommendation engine built differently. Instead of extracting attention, Sign
 
 Powers personalized content curation across the Morenita ecosystem—from Library of Morenita courses to Muses community discovery.
 
-**Status:** Algorithm architecture complete · Beta Q1 2025  
+**Status:** Algorithm architecture complete · Data collection and training in progress
 **Tech:** Python · FastAPI · Machine Learning · Collaborative Filtering  
 **Led by:** Amelia Arabe
 
 ---
 
 ### 🎨 **Muses of Morenita** — Creative Community Platform
-A judgment-free space where creatives co-create with our technology. Muses is where you test Signals, share your work, connect with other creators, and help us build the tools you actually want.
+A space where creatives co-create with our technology. Muses is where you test Signals, share your work, connect with other creators, and help us build the tools you actually want.
 
 Live demos. Feedback loops. No algorithm trying to make you scroll.
 
-**Status:** Pre-launch · Public beta Q1 2025  
+**Status:** In development · Beta testing launching soon · Email list open
 **Tech:** React · Supabase · TypeScript · Real-time collaboration  
 **Community Directors:** Madeline Abiera (Creative Director, Library of Morenita), Vega Robinson (Lead 3D Artist & Visual Designer)
 
